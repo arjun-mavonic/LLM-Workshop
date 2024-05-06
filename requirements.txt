@@ -6,7 +6,7 @@ git+https://github.com/huggingface/datatrove.git
 unsloth[conda]@git+https://github.com/unslothai/unsloth.git
 deepspeed
 PyGithub==2.3.0
-huggingface-hub==0.16.4
+huggingface-hub
 evaluate==0.4.0
 datasets==2.14.4
 bitsandbytes==0.41.1
